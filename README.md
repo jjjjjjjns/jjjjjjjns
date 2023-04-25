@@ -1,3 +1,7 @@
+---
+title: My Cool Document
+---
+
 # My Cool Document
 
 ## Introduction
@@ -10,9 +14,21 @@ Here are some of the coolest things I've discovered recently:
 
 1. **Virtual Reality:** I recently got a VR headset and it's been blowing my mind. The level of immersion is amazing and I love exploring new worlds and experiences.
 
+::: animation
+![Virtual Reality Animation](virtual_reality.gif)
+:::
+
 2. **Artificial Intelligence:** I've been learning more about AI and machine learning, and it's fascinating to see how these technologies are shaping our world.
 
+::: animation
+![AI Animation](ai.gif)
+:::
+
 3. **Cryptocurrencies:** I've started investing in cryptocurrencies and it's been an exciting journey so far. The potential for decentralized finance and blockchain technology is huge.
+
+::: animation
+![Cryptocurrency Animation](cryptocurrency.gif)
+:::
 
 ## Conclusion
 
